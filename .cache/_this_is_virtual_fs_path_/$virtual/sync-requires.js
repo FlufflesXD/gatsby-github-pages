@@ -4,7 +4,7 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-caches-gatsby-plugin-offline-app-shell-js": preferDefault(require("C:\\Users\\Maks Venne\\Valley-East-Martial-Arts-Site\\.cache\\caches\\gatsby-plugin-offline\\app-shell.js")),
+  "component---cache-dev-404-page-js": preferDefault(require("C:\\Users\\Maks Venne\\Valley-East-Martial-Arts-Site\\.cache\\dev-404-page.js")),
   "component---node-modules-gatsby-theme-portfolio-minimal-src-pages-404-tsx": preferDefault(require("C:\\Users\\Maks Venne\\Valley-East-Martial-Arts-Site\\node_modules\\gatsby-theme-portfolio-minimal\\src\\pages\\404.tsx")),
   "component---node-modules-gatsby-theme-portfolio-minimal-src-templates-article-index-tsx": preferDefault(require("C:\\Users\\Maks Venne\\Valley-East-Martial-Arts-Site\\node_modules\\gatsby-theme-portfolio-minimal\\src\\templates\\Article\\index.tsx")),
   "component---node-modules-gatsby-theme-portfolio-minimal-src-templates-article-listing-index-tsx": preferDefault(require("C:\\Users\\Maks Venne\\Valley-East-Martial-Arts-Site\\node_modules\\gatsby-theme-portfolio-minimal\\src\\templates\\ArticleListing\\index.tsx")),
