@@ -13,7 +13,7 @@ var plugins = [{
     },{
       name: 'gatsby-plugin-manifest',
       plugin: require('C:/Users/Maks Venne/Valley-East-Martial-Arts-Site/node_modules/gatsby-plugin-manifest/gatsby-ssr.js'),
-      options: {"plugins":[],"name":"My Minimal Portfolio","short_name":"Portfolio","start_url":"/","background_color":"#FFFFFF","theme_color":"#000000","display":"minimal-ui","icon":"./content/images/favicon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"d48eafceaf44a7dcd7ae15ab27bfe91b"},
+      options: {"plugins":[],"name":"Vefmac","short_name":"Vefmac","start_url":"/","background_color":"#FFFFFF","theme_color":"#000000","display":"minimal-ui","icon":"./content/images/favicon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"06ebb80902b2c27b0e63923abd60e49b"},
     },{
       name: 'gatsby-plugin-offline',
       plugin: require('C:/Users/Maks Venne/Valley-East-Martial-Arts-Site/node_modules/gatsby-plugin-offline/gatsby-ssr.js'),

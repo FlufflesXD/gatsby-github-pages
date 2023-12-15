@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://vefmac.ca/gatsby-github-pages/sitemap-index.xml
+Host: https://vefmac.ca
