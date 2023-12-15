@@ -1,0 +1,20 @@
+{
+  "intro": "Welcome",
+  "heroPhoto": {
+    "src": "../../images/FacebookImage.jpg"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png"
+  },
+  "title": "Here at VEFMAC",
+  "subtitle": {
+    "prefix": "Discipline and Willpower is ",
+    "highlight": "key",
+    "suffix": "."
+  },
+  "description": "We includes adults, kids and families of any age.",
+  "socialProfiles": {
+    "from": ["Facebook"],
+    "showIcons": false
+  }
+}

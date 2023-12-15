@@ -1,0 +1,43 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://vefmac.ca/",
+    "title": "Valley East Family Martial Arts Center",
+    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "author": "Konstantin Münster",
+    "avatar": "../content/images/OurLogo.png",
+    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "social": {
+      "behance": "https://behance.com",
+      "github": "https://github.com/konstantinmuenster",
+      "medium": "https://konstantinmuenster.medium.com",
+      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
+      "mail": "mailto:mail@konstantin.digital"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Valley East Family Martial Arts Center" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Classes", "url": "/#Classes" },
+        { "label": "Instructors", "url": "/#Instructors" },
+        { "label": "Contact", "url": "/#Contact" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Location",
+        "url": "https://www.google.com/maps/place/Valley+East+Kuk-Sool+Hap-Ki-Do/@46.6504143,-80.9419799,19.75z/data=!4m6!3m5!1s0x4d2fa7c2e1af0fd3:0x5588a103800e4501!8m2!3d46.6505918!4d-80.9419421!16s%2Fg%2F11t6xp36nx?entry=ttu"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

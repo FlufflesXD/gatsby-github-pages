@@ -1,0 +1,11 @@
+{
+  "name": "Our business number: +1 705 662 0152 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   Our email: valleykuksoolhapkido@gmail.com",
+  "description": "If you have any problems or questions, please call or message the number below.",
+  "image": {
+    "src": "../../images/OurLogo.png"
+  },
+  "socialProfiles": {
+    "from": ["Facebook"],
+    "showIcons": true
+  }
+}

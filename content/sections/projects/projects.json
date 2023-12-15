@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "Easy and quick Signup as of 2023/2024",
+      "title": "No online registrations just yet.",
+      "description": "To enroll in our club, you must either come to our location when registration is announced before each new session or come while were open. To check open times, we reccommend to check out our location on google maps or on our facebook.", 
+      "tags": ["Reliable Open Times", "Almost No Cancellations"],
+      "image": {
+        "src": "../../images/schedule.jpg",
+        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Facebook",
+    "url": "https://www.facebook.com/valleyeastkuksoolhapkido"
+  }
+}

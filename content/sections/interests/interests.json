@@ -1,0 +1,58 @@
+{
+  "interests": [
+    {
+      "label": "Richard Simon, 6th Dan",
+      "image": {
+        "src": "../../images/Male.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Perry Simon, 4th Dan",
+      "image": {
+        "src": "../../images/Male.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Sarra Gratton, 3rd Dan",
+      "image": {
+        "src": "../../images/Female.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Stéphan Lapensée, 1st Dan",
+      "image": {
+        "src": "../../images/Male.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Maksim Venne, 1st Dan",
+      "image": {
+        "src": "../../images/Male.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Meghan Simon",
+      "image": {
+        "src": "../../images/Female.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Francine Simon",
+      "image": {
+        "src": "../../images/Female.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load Other Team Members",
+    "initiallyShownInterests": 5
+  }
+}
